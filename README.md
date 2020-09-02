@@ -1,4 +1,4 @@
 # testrepoFrankie
 
 Editing the file
-It's markdown file in this repository
+It's a markdown file in this repository
